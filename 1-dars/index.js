@@ -639,7 +639,3 @@ console.log(x, y)
     B. false
     C. SyntaxError
 */
-
-
-
-//30. Test
